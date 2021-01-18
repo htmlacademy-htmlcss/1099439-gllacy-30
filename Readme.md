@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Maria Shalunova](https://up.htmlacademy.ru/htmlcss/30/user/1099439).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
 
 ---
 
